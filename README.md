@@ -5,6 +5,7 @@ Welcome to your CI/CD learning journey! This guide will teach you everything abo
 ## What is CI/CD?
 
 **CI/CD** stands for:
+
 - **Continuous Integration (CI)**: Automatically testing and integrating code changes
 - **Continuous Deployment (CD)**: Automatically deploying tested code to production
 
